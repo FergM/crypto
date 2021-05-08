@@ -4,6 +4,7 @@ backcall==0.2.0
 colorama==0.4.4
 cycler==0.10.0
 decorator==5.0.7
+fattails==0.0.4
 flake8==3.9.1
 iniconfig==1.1.1
 ipykernel==5.5.4

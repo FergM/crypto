@@ -1,4 +1,5 @@
 # Main
+fattails
 matplotlib
 pandas>=1.2.0  # 1.2.0 required to make the scatter plot xlabel work
 
