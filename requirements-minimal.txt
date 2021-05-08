@@ -1,0 +1,10 @@
+# Main
+matplotlib
+pandas>=1.2.0  # 1.2.0 required to make the scatter plot xlabel work
+
+# Jupyter Installation
+ipykernel
+
+# Development
+flake8
+pytest
