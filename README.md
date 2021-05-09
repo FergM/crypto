@@ -8,7 +8,7 @@ Stablecoins can help people sell their inflationary currency before it depreciat
 
 I'd be interested to learn more about how stablecoins compare to just buying foreign fiat, and why/whether there are less restrictions applied to stablecoins.
 
-_Project to Watch_: reserve.org
+_Project to Watch_: [reserve.org](reserve.org)
 
 ##### Remittances
 This is probably a broader category of using crypto to bypass the fees in bank based systems. There's possibly other benefits such as using currency in regions without a reliable banking system.
@@ -17,7 +17,7 @@ I've been thinking about money at risk for users of these systems. One option is
 
 Interestingly with remittances, even if people can't convert their local currency into stablecoin because of restrictions, they might still be able to receive stablecoins as remittances from abroad. Once received the stablecoins might hold some value locally for trade. 
 
-Project to Watch: [celo.org](https://celo.org/)
+_Project to Watch_: [celo.org](https://celo.org/)
 
 ##### Dollar Depegging
 At the moment the USD is a good global price benchmark. On the scale of months most things people want to buy are stable in USD terms. But what if we can bypass the USD and make a currency more directly fixed to the things people want to buy?
@@ -39,10 +39,10 @@ Initial Public Offering:
 * Initial Coin Offerings can be cheaper and less bureaucratic to implement than formal IPOs.
 
 # Code
-* [./notebooks/](./notebooks/) is where I analyse things
-* [./utils/](./utils/) has some reusable helper functions
+* [notebooks/](./notebooks/) is where I analyse things
+* [utils/](./utils/) has some reusable helper functions
 
 # External Resources
-Smart Contracts
+Solidity Language Smart Contracts
 * Cryptozombies [Tutorial](https://cryptozombies.io/)
 * Solidity [Documentation](https://docs.soliditylang.org/)
