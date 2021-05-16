@@ -29,7 +29,7 @@ _Project to Watch_: reserve.org
 
 ### Non-Stable Coins
 ##### Equity
-The idea here is to sell coins as a form of equity. As such they would be non-stable It offers one more possibility for raising funds.
+The idea here is to sell coins as a form of equity. As such they would be non-stable. It offers one more possibility for raising funds.
 
 Crowd Funding:
 * Initial coin offerings are sort of crowd funding
