@@ -8,7 +8,7 @@ Stablecoins can help people sell their inflationary currency before it depreciat
 
 I'd be interested to learn more about how stablecoins compare to just buying foreign fiat, and why/whether there are less restrictions applied to stablecoins.
 
-_Project to Watch_: [reserve.org](reserve.org)
+_Project to Watch_: [reserve.org](https://reserve.org/)
 
 ##### Remittances
 This is probably a broader category of using crypto to bypass the fees in bank based systems. There's possibly other benefits such as using currency in regions without a reliable banking system.
@@ -24,7 +24,7 @@ At the moment the USD is a good global price benchmark. On the scale of months m
 
 Historically the currencies I can think of started out pegged to something else. For example Gold, USD or GBP. So I think that any crypto-currency that behaves like a good currency will most likely start out pegged to a fiat currency.
 
-_Project to Watch_: reserve.org
+_Project to Watch_: [reserve.org](https://reserve.org/)
 
 
 ### Non-Stable Coins
