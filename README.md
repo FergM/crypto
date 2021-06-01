@@ -9,7 +9,14 @@ Notes and code.
 * [utils/](./utils/) has some reusable helper functions
 
 # External Resources
-Solidity Language Smart Contracts
-* Cryptozombies [Tutorial](https://cryptozombies.io/)
-* Web3.py Python library [Documentation](https://web3py.readthedocs.io/en/stable/index.html#)
-* Solidity [Documentation](https://docs.soliditylang.org/)
+Smart Contracts
+* Web3.py 
+    * Python library for interacting with Ethereum nodes
+    * See [Documentation](https://web3py.readthedocs.io/en/stable/index.html#)
+* Cryptozombies
+    * Interactive Solidity Tutorial
+    * See [Tutorial](https://cryptozombies.io/)
+* Solidity
+    * Smart Contract Language
+    * Designed for Ethereum
+    * See [Documentation](https://docs.soliditylang.org/)
