@@ -1,8 +1,7 @@
 # Crypto
 Notes and code.
 
-### Content
-Main Folders:
+### Content:
 * [docs/](./docs/) is for my thoughts about crypto
     * e.g. [List of Use Cases](./docs/use_cases.md)
 * [notebooks/](./notebooks/) is where I analyse things
