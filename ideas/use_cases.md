@@ -1,5 +1,9 @@
 # Use Cases
-### Stable Coin
+Roughly grouped as follows:
+1. [Stable Coins](#stable-coins)
+2. [Non-Stable Coins](#non-stable-coins)
+
+### Stable Coins
 ##### Hyper-Inflation
 Stablecoins can help people sell their inflationary currency before it depreciates. There's real depegging risk though if people keep large sums in stablecoins. 
 
