@@ -34,3 +34,8 @@ Crowd Funding:
 
 Initial Public Offering:
 * Initial Coin Offerings can be cheaper and less bureaucratic to implement than formal IPOs.
+
+##### Illicit Activities
+Unfortunately bitcoin is used for malicious activities such as cyber randsoms. Still, this counts as a use case.
+
+On this point it's interesting to think about the anonymity aspect. Being a public ledger the transactions are very traceable in ways despite users trying to maintain anonymity. Moreso then anonymity bitcoin is probably useful here because it bypasses Know-Your-Client requirements in traditional financial institutions.
