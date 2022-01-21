@@ -38,7 +38,20 @@ Now lets consider the **Speculation Bubble** aspect:
     * At some point things run out of new participants and or exhaust the demand of existing participants
     * If the participation level is low a bubble can perhaps be maintained for a long time through churn (new people enter, old people leave). Even then it will lack the stability provided by price supports and usefulness.
 
-### Stablecoins & Depegging
+# Risk Aspects
+### Crypto is Non-Physical
+Unlike gold or vegetables, you can't store cryptocurrencies physically.
+
+Sure you can print out the codes which give you access. But what I'm referring to is the risk the crypto changes and causes loss to holders.
+
+For example:
+* Collective Reassignment
+    * The community behind a cryptocurrency could make a change that hits the value of tokens you hold.
+    * E.g. rollback or fork the currency's ledger
+    * Even if the code looks safe, particapants can collectively aggree to jump to some alternative ledger and render
+    * See [Bitcoin Cash](https://en.wikipedia.org/wiki/Bitcoin_Cash) and and the [Steem](https://www.coindesk.com/tech/2020/03/02/why-crypto-should-care-about-justin-suns-steem-drama/) events in 2020 for some context of how blockchains can be reassigned in unexpected ways.
+
+### Stablecoin Depegging
 On the topic, I think Stablecoin projects could benefit from **Black Start** contingency plans.
 
 Outline:
