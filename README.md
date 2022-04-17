@@ -22,3 +22,19 @@ Smart Contracts
 * [notebooks/](./notebooks/) is where I analyse things
     * e.g. [Daily Volatility of BTC and ETH](./notebooks/NB01%20Returns%20-%20BTC%20ETH%20-%20Daily.ipynb)
 * [utils/](./utils/) has some reusable helper functions
+
+# Rolling Notes
+Rough notes
+
+##### Fergal’s rule of Crypto:
+What:
+```
+When doing something with crypto ask yourself whether it could work better without crypto.
+```
+* The same applies for Machine Learning...
+* Choose a simpler solution as a benchmark
+* Apply a cost function to model complexity
+
+Why:
+* Helps you to spot the simpler solution if it exists
+* Helps you to undertand *why* you are using crypto if you still want to use it
